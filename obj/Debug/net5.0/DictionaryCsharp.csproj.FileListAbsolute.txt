@@ -1,0 +1,16 @@
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\bin\Debug\net5.0\DictionaryCsharp.exe
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\bin\Debug\net5.0\DictionaryCsharp.deps.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\bin\Debug\net5.0\DictionaryCsharp.runtimeconfig.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\bin\Debug\net5.0\DictionaryCsharp.runtimeconfig.dev.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\bin\Debug\net5.0\DictionaryCsharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\bin\Debug\net5.0\DictionaryCsharp.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\obj\Debug\net5.0\DictionaryCsharp.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\obj\Debug\net5.0\DictionaryCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\obj\Debug\net5.0\DictionaryCsharp.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\obj\Debug\net5.0\DictionaryCsharp.AssemblyInfo.cs
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\obj\Debug\net5.0\DictionaryCsharp.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\obj\Debug\net5.0\DictionaryCsharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\obj\Debug\net5.0\refint\DictionaryCsharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\obj\Debug\net5.0\DictionaryCsharp.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\obj\Debug\net5.0\DictionaryCsharp.genruntimeconfig.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DictionaryCsharp\DictionaryCsharp\obj\Debug\net5.0\ref\DictionaryCsharp.dll
